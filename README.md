@@ -1,6 +1,4 @@
-# Django Task Manager API
 
-A RESTful API for managing tasks built with Django and Django REST Framework.
 
 ## Tech Stack
 
