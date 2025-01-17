@@ -24,7 +24,7 @@
 1. Clone the repository:
 
 ```bash
-cd django_task_manager
+cd Task-Tracker-API
 ```
 
 2. Create a virtual environment (recommended):
